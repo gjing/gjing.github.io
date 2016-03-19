@@ -280,3 +280,13 @@ a.pure-button-primary {
         font-size: 300%;
     }
 }
+
+/*
+ * -- 1440p (AND UP) MEDIA QUERIES --
+ * for absolutely huge screen resolution
+ */
+@media (min-width: 125em) {
+	.splash-container {
+		background-image: url(../../static/images/main2k.jpg);
+	}
+}

@@ -121,7 +121,7 @@ a {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 50px;
+    font-size: 20px;
     font-weight: bold;
     background: white;
     padding: 2em .5em;
@@ -169,9 +169,10 @@ a {
 .content-subhead {
     color: #1f8dd6;
 }
-    .content-subhead i {
-        margin-right: 7px;
-    }
+
+.content-subhead i {
+	margin-right: 7px;
+}
 
 /* This is the class used for the dark-background areas. */
 .ribbon {

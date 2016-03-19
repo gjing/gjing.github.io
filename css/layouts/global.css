@@ -82,6 +82,10 @@ a.pure-button-primary {
     font-size: 120%;
 }
 
+a {
+    color: #7f8c8d;
+    text-decoration: none;
+}
 
 /*
  * -- SPLASH STYLES --
@@ -117,7 +121,7 @@ a.pure-button-primary {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 20px;
+    font-size: 50px;
     font-weight: bold;
     background: white;
     padding: 2em .5em;

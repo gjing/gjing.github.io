@@ -121,10 +121,10 @@ a {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 50px;
+    font-size: 20px;
     font-weight: bold;
     background: white;
-    padding: 1em 1.6em;
+    padding: 1em .5em;
     font-weight: 100;
     line-height: 1em;
 }
@@ -136,6 +136,11 @@ a {
     letter-spacing: 0.05em;
     line-height: 1em;
     opacity: 0.8;
+}
+
+/* This is the subheading that appears on the blue section */
+.splash-buttons {
+    font-size: 30px;
 }
 
 /*
@@ -216,6 +221,10 @@ a {
 
     .splash-head {
         font-size: 250%;
+    }
+
+    .splash-buttons {
+        font-size: 150%;
     }
 }
 

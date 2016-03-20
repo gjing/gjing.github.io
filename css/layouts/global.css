@@ -121,7 +121,7 @@ a {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 20px;
+    font-size: 50px;
     font-weight: bold;
     background: white;
     padding: 1em 1.6em;
@@ -134,6 +134,7 @@ a {
     color: black;
 	font-size: 12px;
     letter-spacing: 0.05em;
+    line-height: 1em;
     opacity: 0.8;
 }
 

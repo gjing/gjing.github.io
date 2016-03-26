@@ -176,6 +176,16 @@ a {
     background: #111;
 }
 
+.about-header {
+    display:inline-block
+}
+
+ul {
+	list-style-type:none;
+    margin: 0 auto 1em auto;
+    text-align: left;
+}
+
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some

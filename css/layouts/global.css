@@ -98,6 +98,7 @@ a {
     background-repeat: no-repeat;
     background-position: center;
 	background-size: cover;
+	background-attachment: scroll;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */

@@ -118,6 +118,7 @@ a {
     top: 100px; left: 0; bottom: 0; right: 0;
     text-align: center;
     text-transform: uppercase;
+    opacity: 0.9;
 }
 
 /* This is the main heading that appears on the blue section */
@@ -136,7 +137,6 @@ a {
 	font-size: 12px;
     letter-spacing: 0.05em;
     line-height: 1em;
-    opacity: 0.8;
 }
 
 /* This is the subheading that appears on the blue section */
@@ -190,6 +190,17 @@ a {
 /* This is the class used for the footer */
 .footer {
     background: #111;
+}
+
+/*Project divs*/
+
+.grav-shooter {
+    background: white;
+    background-image: url(../../static/images/GravShooter.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+	background-size: cover;
+	border: 7px solid white;
 }
 
 /*

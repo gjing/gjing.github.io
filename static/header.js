@@ -17,4 +17,5 @@ const header = "WELCOME TO GEORGE JING'S WEBSITE\n\n\
    Physics from California Polytechnic State University-San Luis Obispo.\n\
    Primarily working with a Python/Django, Javascript, Html/CSS, and\n\
    REST API stack.\n\n\
-  Made with jQuery.terminal https://terminal.jcubic.pl/"
+  Made with jQuery.terminal https://terminal.jcubic.pl/\n\n\
+  Type 'help' for a list of commands"

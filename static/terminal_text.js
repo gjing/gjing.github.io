@@ -1,3 +1,5 @@
-const lsTxt = "education_history.txt employment_history.txt"
+const catError = "No such file or directory"
 
-const cat_error = "No such file or directory"
+const helpTxt = "ls\n\
+cat [filename]\n\
+echo [text]"

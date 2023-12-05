@@ -11,8 +11,8 @@ const header = "WELCOME TO GEORGE JING'S WEBSITE\n\n\
   Employment Status: Employed\n\
   Legal Status: US Citizen\n\
   Approximate Location: Southern California\n\
-  Currently seeking new work?: Not at this moment\n\
-  Open to new opportunities?: Not at this moment\n\n\
+  Currently seeking new work?: Yes\n\
+  Open to new opportunities?: Yes\n\n\
  * Experienced full stack developer with a bachelor's in science in\n\
    Physics from California Polytechnic State University-San Luis Obispo.\n\
    Primarily working with a Python/Django, Javascript, Html/CSS, and\n\

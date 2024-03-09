@@ -16,16 +16,19 @@ const education_history = "[[b;green;black]California Polytechnic State Universi
 
 const employment_history = "[[b;orange;black]Senior Software Engineer | MobileMoney CasinoMoney]\n\
 [[b;lightgreen;black]May 2021 - Present]\n\
- Worked on PayAuth payment authorization product\n\
- Lead the integration of RapicConnect specifications with PayAuth's Financial\n\
+ Lead the prototyping and proof of concept projects to demonstrate viability for full\n\
+  releases including the cashless debit card system and a custom internal metrics and\n\
+  monitoring system\n\
+ Managed a team of interns and lead the development of intern projects\n\
+ Lead the integration of RapidConnect specifications with PayAuth's Financial\n\
   Specifications\n\
- Assisted with the migration of our services from Python 2 to Python 3\n\
+ Migrated our services from Python 2 to Python 3\n\
  Refactored and rebuilt our codebase to follow best practices and PEP standards\n\n\
 [[b;orange;black]Software Developer I | Amazon]\n\
 [[b;lightgreen;black]January 2020 - January 2021]\n\
  Worked on domestic and international online grocery store expansion.\n\
- Assisted with the maintenance of Amazon UFG and PrimeNow Detail Pages.\n\
- Assisted with the deprecation of PrimeNow and migration of PrimeNow to Amazon.\n\
+ Maintained the Amazon UFG and PrimeNow Detail Pages.\n\
+ Deprecated PrimeNow and migrated PrimeNow to Amazon's main storefront.\n\
  Used Java/Spring, automated pipeline deployment, and custom Amazon tools.\n\
  Created, set up automation tests for, deployed, and regression tested new\n\
   features and old feature deprecation for Amazon grocery detail pages.\n\
@@ -42,6 +45,5 @@ const employment_history = "[[b;orange;black]Senior Software Engineer | MobileMo
  Collaborated with team members using Git for version control and Redmine for\n\
   task assignment and management.\n\
  Integrated 3rd party APIs with BakPak\n\
- Assisted with the migration of MyBakPak from internal servers to Amazon Web\n\
-  Services.\n\
+ Migrated our core product from internal servers to Amazon Web Services.\n\
  Developed remotely on the cloud using git, ssh, deployment scripts, and ftp."

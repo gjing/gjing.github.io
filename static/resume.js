@@ -15,7 +15,7 @@ const education_history = "[[b;green;black]California Polytechnic State Universi
   and power"
 
 const employment_history = "[[b;orange;black]Senior Software Engineer | MobileMoney CasinoMoney]\n\
-[[b;lightgreen;black]May 2021 - Present]\n\
+[[b;lightgreen;black]May 2021 - Jan 2023]\n\
  Lead the prototyping and proof of concept projects to demonstrate viability for full\n\
   releases including the cashless debit card system and a custom internal metrics and\n\
   monitoring system\n\
